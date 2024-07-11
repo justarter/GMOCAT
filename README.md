@@ -1,5 +1,5 @@
 # GMOCAT-CODE
-Official Code for paper "GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing"
+Official Code for paper "GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing" (KDD 2023)
 ## requirements:
 Python, PyTorch, dgl
 
